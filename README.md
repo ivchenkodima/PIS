@@ -1,1 +1,2 @@
-# PIS
+# flappy-bird
+Canvas Flappy Bird game
